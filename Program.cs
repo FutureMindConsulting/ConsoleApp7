@@ -7,6 +7,7 @@ namespace ConsoleApp7
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Universes--!");
+            Console.WriteLine("Hello yet another universe!");
         }
     }
 }
